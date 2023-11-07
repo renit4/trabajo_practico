@@ -1,0 +1,8 @@
+Pan: Red de area personal, 
+es la red de dispositivos cercanos a la computadora personal de una persona.
+Lan: Red de area Local,
+es una red que conecta dispositivos de un area pequeña como una habitacion u oficiona.
+Man:Red de area metropolitana,
+es una red un poco mas extensa, conecta los distintos computadores de una farmacia por ejemplo
+o de hospitales, se extiende por una ciudad.
+Wan: Red de area extensa, son muchas conexiones de redes, se extiende mundialmente.
